@@ -1,0 +1,43 @@
+.Container{
+  border-radius: 5px;
+  border: 1px solid #333333;
+  padding: 10px;
+  margin: 10px;
+}
+
+.main {
+  display: flex; 
+  flex-direction: row;
+  justify-content: center;
+}
+
+.select {
+  width: 190px;
+  height: 40px;
+}
+
+.img{
+  width: 200px;
+  height: 200px;
+}
+
+.name{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.img1{
+  width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.main1{
+  margin-left: 20px;
+  float: left;
+}
+
+.wrapper{
+  padding: 10px;
+}

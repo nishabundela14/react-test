@@ -1,0 +1,98 @@
+{
+    "categories": [{
+        "id": 1,
+        "name": "Laptops"
+        }, {
+        "id": 2,
+        "name": "Mobiles"
+        }, {
+        "id": 3,
+        "name": "Speakers"
+    }],
+    "products": [{
+        "id": 1,
+        "name": "Lenovo",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 1
+        }, {
+        "id": 2,
+        "name": "Mac",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 1
+        }, {
+        "id": 3,
+        "name": "Dell",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 1
+    },
+    {
+        "id": 4,
+        "name": "LG",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 2
+        }, {
+        "id": 5,
+        "name": "Iphone",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 2
+        },
+        {
+            "id": 6,
+            "name": "BOSS",
+            "imageUrl": "https://picsum.photos/640/360",
+            "categoryId": 3
+        }, {
+            "id": 7,
+            "name": "Philips",
+            "imageUrl": "https://picsum.photos/640/360",
+            "categoryId": 3
+        }
+    ],
+    "productDetails": [{
+        "id": 1,
+        "name": "Lenovo",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 1,
+        "description": "Dummy description"
+        }, {
+        "id": 2,
+        "name": "Mac",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 1,
+        "description": "Dummy description"
+        }, {
+        "id": 3,
+        "name": "Dell",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 1,
+        "description": "Dummy description"
+    },
+    {
+        "id": 4,
+        "name": "LG",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 2,
+        "description": "Dummy description"
+        }, {
+        "id": 5,
+        "name": "Iphone",
+        "imageUrl": "https://picsum.photos/640/360",
+        "categoryId": 2,
+        "description": "Dummy description"
+        },
+        {
+            "id": 6,
+            "name": "BOSS",
+            "imageUrl": "https://picsum.photos/640/360",
+            "categoryId": 3,
+            "description": "Dummy description"
+        }, {
+            "id": 7,
+            "name": "Philips",
+            "imageUrl": "https://picsum.photos/640/360",
+            "categoryId": 3,
+            "description": "Dummy description"
+        }
+    ]
+}
+    
